@@ -1,0 +1,28 @@
+# Build output
+build/
+out/
+
+# Gradle caches
+.gradle/
+
+# NeoForge dev run directory (world saves, logs, player data, local configs)
+run/
+
+# Local Maven publish output
+repo/
+
+# Local dependency jars (resolved via Maven at build time)
+libs/
+
+# IDE project files
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

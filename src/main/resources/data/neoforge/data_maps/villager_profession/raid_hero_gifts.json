@@ -1,0 +1,17 @@
+{
+  "values": {
+    "minecraft:armorer":      { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/armorer" },
+    "minecraft:butcher":      { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/butcher" },
+    "minecraft:cartographer": { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/cartographer" },
+    "minecraft:cleric":       { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/cleric" },
+    "minecraft:farmer":       { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/farmer" },
+    "minecraft:fisherman":    { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/fisherman" },
+    "minecraft:fletcher":     { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/fletcher" },
+    "minecraft:leatherworker":{ "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/leatherworker" },
+    "minecraft:librarian":    { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/librarian" },
+    "minecraft:mason":        { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/mason" },
+    "minecraft:shepherd":     { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/shepherd" },
+    "minecraft:toolsmith":    { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/toolsmith" },
+    "minecraft:weaponsmith":  { "loot_table": "numismaticoverhaul:gameplay/hero_of_the_village/weaponsmith" }
+  }
+}

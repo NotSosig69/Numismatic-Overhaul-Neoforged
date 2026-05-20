@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "notsosig.numismaticoverhaul.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "notsosig.numismaticoverhaul.mixin.ConfigPlugin",
+  "refmap": "numismaticoverhaul.refmap.json",
+  "mixins": [
+    "InvWrapperMixin",
+    "LivingEntityMixin",
+    "MerchantContainerMixin",
+    "MerchantResultSlotMixin",
+    "MerchantScreenHandlerMixin",
+    "NUSlotMixin",
+    "ServerPlayerEntityMixin",
+    "ServerWorldMixin",
+    "TradeOfferMixin",
+    "VillagerEntityMixin",
+    "VillagerPackCodecsMixin",
+    "ninetynine.BundleItemMixin",
+    "ninetynine.ContainersMixin",
+    "ninetynine.ItemEntityMixin",
+    "ninetynine.ItemStackHandlerMixin"
+  ],
+  "client": [
+    "InventoryScreenMixin",
+    "MerchantScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
